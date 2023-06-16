@@ -73,3 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## URL : https://react-chartjs-2.js.org/examples/bubble-chart, https://react-chartjs-2.js.org/examples/multitype-chart
 public/bubble-bar-multiple-charts.png
+![image](https://github.com/nelsonlopezjimenez/react-karyosim/assets/97740721/e6c06987-5180-4eb2-a777-a40f4afea535)
+
